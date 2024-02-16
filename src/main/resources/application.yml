@@ -1,0 +1,3 @@
+addresses:
+  service:
+    url: "http://65cb7f92efec34d9ed87a5b4.mockapi.io/address"
